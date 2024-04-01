@@ -161,3 +161,10 @@ a:link {
     color: azure;
     
 }
+
+footer {
+    background-color: #000000;
+   color:  rgb(159, 159, 159);
+    display: flex;
+    justify-content: space-between;
+}
